@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-13.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/cglib-nodep-3.2.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/commons-codec-1.10.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/commons-exec-1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/commons-io-2.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/commons-lang3-3.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/cssparser-0.9.22.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/gson-2.8.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/guava-21.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/hamcrest-core-1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/htmlunit-2.26.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/htmlunit-core-js-2.26.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/htmlunit-driver-2.26.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/httpclient-4.5.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/httpcore-4.4.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/httpmime-4.5.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/javax.servlet-api-3.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/jetty-io-9.4.1.v20170120.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/jetty-util-9.4.1.v20170120.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/jna-4.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-java-3.4.0/lib/jna-platform-4.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Training/Programs/Project/Installation stuff/Jar Files/selenium 3.4/selenium-server-standalone-3.4.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
